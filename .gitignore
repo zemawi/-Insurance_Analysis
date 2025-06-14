@@ -3,6 +3,7 @@
 
 data/MachineLearningRating_v3.txt
 data/dataset.csv
+data/dataset_cleaned.csv
 
 
 __pycache__
